@@ -10,7 +10,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 
 ## Dataset
 
-The data for this project was scraped from the Google Play website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former.
+The data for this project was scraped from the Google Play website.
 
 apps.csv: contains all the details of the apps on Google Play. These are the features that describe an app.
 
